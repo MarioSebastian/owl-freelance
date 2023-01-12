@@ -1,0 +1,1 @@
+untuk start: ``npm run electron:serve``
